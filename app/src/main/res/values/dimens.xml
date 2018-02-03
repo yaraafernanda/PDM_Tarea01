@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "padding">10dp</dimen>
+    <dimen name="main_textSize">18sp</dimen>
+    <dimen name="textview_padding">4dp</dimen>
+</resources>

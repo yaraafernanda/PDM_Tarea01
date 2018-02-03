@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    
+    <string-array name="books">
+        <item>Los cuatro acuerdos</item>
+        <item>Cien años de soledad</item>
+        <item>El alquimista</item>
+        <item>El retrato de Dorian Gray</item>
+        <item>La casa de los espíritus</item>
+    </string-array>
+
+    <string-array name="degrees">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string name="name">Ingrese su nombre</string>
+    <string name="phone">Ingrese su teléfono</string>
+    <string name="book">Libro Favorito</string>
+    <string name="sport">Practica Deporte</string>
+    <string name="degree">Escolaridad</string>
+    <string name="gender">Género</string>
+    <string name="fem">Femenino</string>
+    <string name="masc">Masculino</string>
+    <string name="menu_save">Guardar</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="clean">Limpiar</string>
+    <string name="dialog_message">Desea limpiar el contenido?</string>
+    
+</resources>
