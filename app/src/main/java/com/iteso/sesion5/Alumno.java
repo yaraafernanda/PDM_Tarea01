@@ -30,7 +30,7 @@ public class Alumno {
         if(deporte == TRUE)
             return ("Nombre: " +nombre+ "\nTelefono: " +telefono+ "\nEscolaridad: " +escolaridad+ "\nGénero: " +genero+ "\nLibro Favorito: " +libro+ "\nPractica Deporte: Sí");
         else
-            return ("Nombre: " +nombre+ "\nTelefono: " +telefono+ "\nEscolaridad: " +escolaridad+ "\nGénero: " +genero+ "\nLibro Favorito: " +libro+ "\nPractica Deporte: Sí");
+            return ("Nombre: " +nombre+ "\nTelefono: " +telefono+ "\nEscolaridad: " +escolaridad+ "\nGénero: " +genero+ "\nLibro Favorito: " +libro+ "\nPractica Deporte: No");
     }
 
 }

@@ -94,7 +94,7 @@ public class ActivityMain extends AppCompatActivity {
         gender_f.setChecked(true);
         gender_m.setChecked(false);
         book.setText(null);
-        sport.setChecked(true);
+        sport.setChecked(false);
     }
 
     public void onButtonClicked(View v){
